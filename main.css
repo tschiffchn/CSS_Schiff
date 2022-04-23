@@ -1,0 +1,78 @@
+body {
+	margin: 0px;
+}
+
+.site_banner{
+	border-top: solid 8px black;
+	border-bottom: solid 1px black;
+	text-align: center;
+	padding: 20px;
+}
+
+#logo{
+	width: 300px;
+}
+
+h3{
+	color: #de2f23;
+	font-family:Basier, sans-serif ;
+	font-weight: bold,14px;
+	letter-spacing: 1px;
+
+}
+
+.article{
+	max-width: 900px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.story_header {
+	font-family:Basier;
+	font-size: 20px;
+}
+
+h1{
+	font-size: 46px;
+	margin-bottom: 0px;
+}
+
+.byline{
+	font-weight: bold;
+}
+
+.story_copy{
+	font-family: Pensum, sans-serif;
+	font-size: 20px;
+
+}
+
+.photo{
+	width: 100%;
+}
+
+.photo_caption{
+	color: darkgray;
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.footer{
+	font-family:Basier;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.footer_info{
+	color: darkgray;
+	font-size: 14px;	
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: hotpink;
+}
+
